@@ -1,5 +1,5 @@
 # Train Track
 
-Public website for Train Track. App source is kept in a separate private repository.
+Public website for Train Track. Application source is private.
 
 Support: support.traintrack@gmail.com
